@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "224231501961",
+    "project_id": "fir-bacaberita",
+    "storage_bucket": "fir-bacaberita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224231501961:android:cb534289207f95b0fcd658",
+        "android_client_info": {
+          "package_name": "com.android.mydetikcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224231501961-i8aain1bgct2qld2kjutmh52bfcj96j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.mydetikcom",
+            "certificate_hash": "dd630c2b825b9444caa916eaeb7825025afc8493"
+          }
+        },
+        {
+          "client_id": "224231501961-hvsl4452d4gop3vn6h2qpdhn8s20606s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGlxHlsNLIcsbrHQ3wfChXuIAhk7v-1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224231501961-hvsl4452d4gop3vn6h2qpdhn8s20606s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
